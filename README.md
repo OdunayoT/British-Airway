@@ -27,7 +27,9 @@ Analysis
 ![Screenshot 2024-05-24 130644](https://github.com/OdunayoT/British-Airway/assets/168080935/fc4b0dcf-e96b-4c22-802a-fb480c891560)
 
 Key Insights 
+
 There are two categories of review:
+
 Verified Trip and Unverified Trip
 
 Verified Trip
@@ -35,7 +37,7 @@ Verified Trip
 Over 1000 customers gave their reviews, they gave the airline an average rating of 4.28, which is below the average rate of 5. 65% of the customers said they would not recommend the airline, and 35% said they would. Economy, premium, business, and first-class seat types gave negative recommendations based on their experience with the airline. 
 
 
-![Screenshot 2024-05-24 130254](https://github.com/OdunayoT/British-Airway/assets/168080935/f5fb0621-b7d9-4deb-89f9-e074b85525c2)
+![Screenshot 2024-05-24 131038](https://github.com/OdunayoT/British-Airway/assets/168080935/68d00bf9-baa4-410b-8add-a1515e319944)
 
 Unverified Trip
 
