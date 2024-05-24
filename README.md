@@ -2,7 +2,7 @@
 
 Introduction
 
-British Airways has recognized its customer dissatisfaction and aims to identify common issues its customer experience while using its service to improve service quality and enhance customer experience.
+British Airways has recognized its customer dissatisfaction and aims to identify common issues customers experience while using their service to improve service quality and enhance customer experience.
 
 
 Methodology
@@ -41,12 +41,13 @@ Over 1000 customers gave their reviews, they gave the airline an average rating 
 
 Unverified Trip
 
-Over 200 customers gave their reviews, and they gave the airline a rating of 4.21. 72% of the customers said they would not recommend this airline, and 28% said they would. Economy, premium, business, and first class seat types gave negative recommendations based on their experience. The highest negative and positive recommendation was from Economy Class Customers. 
+Over 200 customers gave their reviews, and they gave the airline a rating of 4.21. 72% of the customers said they would not recommend this airline, and 28% said they would. Economy, premium, business, and first-class seat types gave negative recommendations based on their experience. The highest negative and positive recommendation was from Economy Class Customers. 
 
 
 ![Screenshot 2024-05-24 130448](https://github.com/OdunayoT/British-Airway/assets/168080935/2acf43dd-2814-4606-a5dd-d61964ece5f1)
 
 Recommendations
+
 Based on the analysis done and the feedback given by customers,
 
 - British Airways should focus on training staff to be more courteous and respectful with customers.
