@@ -8,6 +8,7 @@ British Airways has recognized its customer dissatisfaction and aims to identify
 Methodology
 
 The dataset has 7 fields namely; reviews, date, country, seat type, recommended, departure destination, arrival destination, and type of traveler. After I imported the data into Power Query in Excel, I scrubbed the long form review and ensured that they only fell into two categories (Trip Verified and Not Verified), I formatted the date and star rating column that was recognized as text to number, I replaced the data in the recommended column to proper case, and I split the record in the route column to arrival and departure destination. The abbreviated records were replaced with the actual country code for easy readability.
+
 ![Screenshot 2024-05-24 123132](https://github.com/OdunayoT/British-Airway/assets/168080935/a7d061bd-b52d-4f87-9129-0c2a8aa0fadf)
 
 Analysis
@@ -22,6 +23,7 @@ Analysis
 - Over 500 customers arrived at Heathrow using British Airline which was the highest.
 - Above 100 customers used British Airways when arriving at Cape Town and Sydney.
 - The highest negative recommendation came from the Economy Class seat type (above 500), followed by Business Class (over 200), and Premium Class (less than 100).
+  
 ![Screenshot 2024-05-24 125636](https://github.com/OdunayoT/British-Airway/assets/168080935/9432de53-7a16-4042-a6c2-9cd0217faea8)
 
 Key Insights 
@@ -29,11 +31,17 @@ There are two categories of review:
 Verified Trip and Unverified Trip
 
 Verified Trip
+
 Over 1000 customers gave their reviews, they gave the airline an average rating of 4.28, which is below the average rate of 5. 65% of the customers said they would not recommend the airline, and 35% said they would. Economy, premium, business, and first-class seat types gave negative recommendations based on their experience with the airline. 
+
+
 ![image](https://github.com/OdunayoT/British-Airway/assets/168080935/2c395b5e-1580-4b06-951e-d7f12e7ee405)
 
 Unverified Trip
+
 Over 200 customers gave their reviews, and they gave the airline a rating of 4.21. 72% of the customers said they would not recommend this airline, and 28% said they would. Economy, premium, business, and first class seat types gave negative recommendations based on their experience. The highest negative and positive recommendation was from Economy Class Customers. 
+
+
 ![image](https://github.com/OdunayoT/British-Airway/assets/168080935/734c92dc-4a08-4f9d-8dc5-f457144e7269)
 
 Recommendations
