@@ -2,7 +2,7 @@
 
 Introduction
 
-British Airways has recognized its customer dissatisfaction and aims to identify common issues customers experience while using their service to improve service quality and enhance customer experience.
+British Airways has recognized its customer dissatisfaction and aims to identify common issues customers experience while using their service. Identifying these issues will help them improve service quality and enhance customer experience.
 
 
 Methodology
