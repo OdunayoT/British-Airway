@@ -35,7 +35,7 @@ Verified Trip
 Over 1000 customers gave their reviews, they gave the airline an average rating of 4.28, which is below the average rate of 5. 65% of the customers said they would not recommend the airline, and 35% said they would. Economy, premium, business, and first-class seat types gave negative recommendations based on their experience with the airline. 
 
 
-![Screenshot 2024-05-24 125636](https://github.com/OdunayoT/British-Airway/assets/168080935/9432de53-7a16-4042-a6c2-9cd0217faea8)
+![Screenshot 2024-05-24 130254](https://github.com/OdunayoT/British-Airway/assets/168080935/f5fb0621-b7d9-4deb-89f9-e074b85525c2)
 
 Unverified Trip
 
